@@ -1,3 +1,7 @@
+此工程克隆自 <https://github.com/happycao/lingxi-server>
+
+---
+
 ## 关于灵悉  
 此代码为灵悉项目服务端代码  
 
